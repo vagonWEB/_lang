@@ -1,51 +1,51 @@
-"x";"cs";"sk";"en";"de";"pl";"hu";"es"
-;"Vlak $1 je mezi stanicemi $3 veden společně s vlakem $5";;"Train $1 runs together with train $5 in section $3";"P:/(.*)(wird zwischen)(.*)(gemeinsam mit)(.*)(geführt)/";"Na odcinku $3 pociąg $1 jest połączony ze składem $5";;
-;"Vlak $1 je v úseku $3 veden společně s vlakem $5";;"Train $1 runs together with train $5 from $3";"P:/(.*)(wird von)(.*)(gemeinsam mit)(.*)(geführt)/";"Na odcinku $3 pociąg $1 jest połączony ze składem $5";;
-;"V úseku $2 veden společně s vlakem $4";;"Runs together with train $4 in section $2";"P:/(Wird von)(.*)(gemeinsam mit)(.*)(geführt)/";"Kursuje w połączeniu ze składem $4 na odcinku $2";;
-;"V $2 jede jako $4";;"Runs as $4 on $2";"P:/(Wird an)(.*)(als)(.*)(geführt)/";"Kursuje jako $4 w $2";;
-;"Ze stanice $2 jede jako $4";;"Runs as $4 from $2";"P:/(Wird ab)(.*)(als)(.*)(geführt)/";"Kursuje jako $4 od stacji $2";;
-;"Do stanice $2 jede jako $4";;"Runs as $4 to $2";"P:/(Wird nach)(.*)(als)(.*)(geführt)/";"Kursuje jako $4 do stacji $2";;
-;"Do stanice $2 jede jako $4";;"Runs as $4 to $2";"P:/(xxxxxxWird)(.*)(geführt)/";"Kursuje jako $4 do stacji $2";;
-;"Přímé vozy do stanice $2 jsou přeřazeny ve stanici $4 do vlaku $6";;"Cars to $2 are switched to train $6 at station $4";"Kurswagen nach $2 wird auf Zug $6 am Bahnhof $4 umgestellt";"P:/(Wagony do stacji)(.*)(są przełączane na stacji|są przełączane v stacji)(.*)(na pociąg|do pociągu)(.*)([.])/";;
-;"Přímé vozy ze stanice $2 jsou připojeny ve stanici $4 od vlaku $6";;"Cars from $2 are switched from train $6 at station $4";"Kurswagen von $2 wird vom Zug $6 am Bahnhof $4 umgestellt";"P:/(Wagony ze stacji)(.*)(są przełączane na stacji|są przełączane v stacji)(.*)(z pociągu)(.*)([.])/";;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;"P:/(.*)(jede)(.*)(odklonem mimo)(.*)/";;"$1 runs $2 excepting $3";;;;
-;"P:/(.*)(jede)(.*)(odklonem přes)(.*)/";;"$1 runs $2 via $3";;;;
-;"v období $2 nejede v úseku $4";;"does not run in section $4 in period $2";"P:/(Fährt von|Fährt vom)(.*)(nicht von)(.*)/";"w okresie $2 nie kursuje na odcinku $4";"nem közlekedik: $4 és $2 között";
-;"v $2 nejede v úseku $4";;"does not run in section $4 on $2";"P:/(Fährt an|Fährt am)(.*)(nicht von)(.*)/";"w $2 nie kursuje na odcinku $4";"nem közlekedik: $4 és $2 között";
-;"v $4 nejede v úseku $2";;"does not run in section $2 on $4";"P:/(Fährt von|Fährt vom)(.*)(nicht an)(.*)/";"w $4 nie kursuje na odcinku $2";"nem közlekedik: $4 és $2 között";
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;"Vlak nesplňuje obvyklý standard pro vlaky";"Vlak nespĺňa štandard vlaku kategórie";"This train fails to satisfy usual quality standard for trains";"Dieser Zug bietet nicht die gewohnte Qualität ";"Ten pociąg nie spełnia standardowej normy jakości dla tego zestawienia";;"El tren no cumple con los estándares de calidad habituales"
-;"Nákladní vlak s přepravou cestujících";;"Goods train with passenger service ";"Güterzug mit Personenbeförderung ";"Pociąg towarowo-osobowy";"Vegyesvonat";
-;"řazení obou řad je náhodné";;"both types of car are possible";"Beide Wagenbauarten sind möglich";;"mindkét típus előfordulhat";
-;"řazení klimatizovaného a neklimatizovaného vozu je náhodné";;"there is either air-conditioned or non air-conditioned car type";"Reihung der klimatisierte als auch der nicht klimatisierte Wagen ist zufällig";;;
-;"zásuvky 230 V pouze u míst";;"230 V sockets only for seats";"230 V-Steckdosen nur für Plätze";;;
-;"zásuvky 230 V pouze v 1. třídě";;"230 V sockets only in 1 class";"230 V-Steckdosen nur in 1. Klasse";;;
-;"Přístupová brána k nástupišti se";"Prístupová brána na nástupisku sa";"Access gate to the platform will closed";"Zugang zum Bahnsteig wird";"Bramki dostępu na peronie są zamykane";;"El control de acceso se cierra"
-;"minuty před odjezdem vlaku uzavírá";"minút pred odchodom vlaku sa uzatvára";"minutes before the train departs";"Minuten vor Abfahrt des Zuges geschlossen";"minuty przed odjazdem pociągu";;"minutos antes de la salida del tren"
-;"maximální rychlost vlaku";"maximálna rýchlosť vlaku";"maximal speed";"Maximale Geschwindigkeit ";"Maksymalna prędkość pociągu";;"Velocidad máxima del tren"
-;"přeprava jízdních kol v úschově během přepravy na základě možné rezervace";"preprava bicyklov v úschovni počas prepravy na základe možnej rezervácie";"bicycle transport with optional reservation of space for bicycle";"fahrende Gepäckaufbewahrung mit Reservierungsmöglichkeit für Fahrradstellplatz";"przewóz rowerów z opcjonalną rezerwacją miejsca na rower";;
-;"přeprava jízdních kol v úschově během přepravy na základě povinné rezervace";"preprava bicyklov v úschovni počas prepravy na základe povinnej rezervácie";"bicycle transport with required reservation of space for bicycle";"fahrende Gepäckaufbewahrung mit Reservierungspflicht für Fahrradstellplatz";"przewóz rowerów z obowiązkową rezerwacją miejsca na rower";;
-;"přeprava jízdních kol na základě povinné rezervace";"preprava bicyklov na základe povinnej rezervácie";"bicycle transport with required reservation";"Reservierungspflicht für Fahrradstellplatz";"przewóz rowerów z obowiązkową rezerwacją miejsca na rower";;
-;"povinná rezervace místa pro jízdní kolo";"povinná rezervácia miesta pre bicykel";"bicycle transport with required reservation";"Reservierungspflicht für Fahrradstellplatz";"przewóz rowerów z obowiązkową rezerwacją miejsca na rower";;
-;"samoobslužná přeprava jízdních kol";;"bicycle transport with self-loading";"Velo-Selbstverlad";;;
-;"přeprava jízdních kol";"preprava bicyklov";"bicycle transport";"Fahrradtransport";;;
-;"Povinná rezervace místa k sezení pro cestující v mezinárodní přepravě";"V medzinárodnej preprave platí povinná rezervácia miest na sedenie";"compulsory seat reservation in international traffic";"Reservierungspflicht im internationalen Verkehr ";"Obowiązkowa rezerwacja miejsc na odcinku międzynarodowym";"nemzetközi forgalomban helyjegy váltása kötelező";
-;"Cestující v mezinárodní přepravě s povinnou rezervací místa k sezení";;"compulsory seat reservation in international traffic";"Reservierungspflicht im internationalen Verkehr ";"Obowiązkowa rezerwacja miejsc na odcinku międzynarodowym";"nemzetközi forgalomban helyjegy váltása kötelező";
-;;;;;;;
-;"vlak s povinnou rezervací místa";"Vlak je povinne miestenkový ";"train with compulsory seat reservation";"Reservierungspflichter Zug";"pociąg objęty całkowitą rezerwacją miejsc";"a vonatra helyjegy váltása kötelező";
-;;;;;;;
-;"povinná rezervace místa";"povinná rezervácia miesta";"compulsory seat reservation";"Reservierungspflicht";"całkowitą rezerwacją miejsc";"helyjegy váltása kötelező";
-;;;;;;;
-;;;;;;;
-;"povinná rezervace";"povinná rezervácia";"compulsory reservation";"Reservierungspflicht";"obowiązkowa rezerwacja";"kötelező helyjegyváltás";
-;"povinné rezervace";"povinné rezervácie";"compulsory reservations";"Reservierungspflicht";"obowiązkowe rezerwacje";"kötelező helyjegyváltás";
-;"povinně místenkový";"povinne miestenkový";"reservation necessary";"Platzkartenpflichtig";"obowiązkowa rezerwacja";"kötelező helyjegyváltás";
-;"povinně místenkový";"povinne miestenkový";"reservation compulsory";"Platzkartenpflichtig";"obowiązkowa rezerwacja";"kötelező helyjegyváltás";
-;"možná rezervace";;"reservable";"reservierbar";"możliwa rezerwacja";"helyjegy váltható";
-;"rezervační číslo vlaku";"rezervačné číslo vlaku";"train number for ticket booking";"Zugnummer für Fahrkartenbuchung ";"numer pociągu do rezerwacji biletów";;
+"x","cs","sk","en","de","pl","hu","es"
+,"Vlak $1 je mezi stanicemi $3 veden společně s vlakem $5",,"Train $1 runs together with train $5 in section $3","P:/(.*)(wird zwischen)(.*)(gemeinsam mit)(.*)(geführt)/","Na odcinku $3 pociąg $1 jest połączony ze składem $5",,
+,"Vlak $1 je v úseku $3 veden společně s vlakem $5",,"Train $1 runs together with train $5 from $3","P:/(.*)(wird von)(.*)(gemeinsam mit)(.*)(geführt)/","Na odcinku $3 pociąg $1 jest połączony ze składem $5",,
+,"V úseku $2 veden společně s vlakem $4",,"Runs together with train $4 in section $2","P:/(Wird von)(.*)(gemeinsam mit)(.*)(geführt)/","Kursuje w połączeniu ze składem $4 na odcinku $2",,
+,"V $2 jede jako $4",,"Runs as $4 on $2","P:/(Wird an)(.*)(als)(.*)(geführt)/","Kursuje jako $4 w $2",,
+,"Ze stanice $2 jede jako $4",,"Runs as $4 from $2","P:/(Wird ab)(.*)(als)(.*)(geführt)/","Kursuje jako $4 od stacji $2",,
+,"Do stanice $2 jede jako $4",,"Runs as $4 to $2","P:/(Wird nach)(.*)(als)(.*)(geführt)/","Kursuje jako $4 do stacji $2",,
+,"Do stanice $2 jede jako $4",,"Runs as $4 to $2","P:/(xxxxxxWird)(.*)(geführt)/","Kursuje jako $4 do stacji $2",,
+,"Přímé vozy do stanice $2 jsou přeřazeny ve stanici $4 do vlaku $6",,"Cars to $2 are switched to train $6 at station $4","Kurswagen nach $2 wird auf Zug $6 am Bahnhof $4 umgestellt","P:/(Wagony do stacji)(.*)(są przełączane na stacji|są przełączane v stacji)(.*)(na pociąg|do pociągu)(.*)([.])/",,
+,"Přímé vozy ze stanice $2 jsou připojeny ve stanici $4 od vlaku $6",,"Cars from $2 are switched from train $6 at station $4","Kurswagen von $2 wird vom Zug $6 am Bahnhof $4 umgestellt","P:/(Wagony ze stacji)(.*)(są przełączane na stacji|są przełączane v stacji)(.*)(z pociągu)(.*)([.])/",,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,"P:/(.*)(jede)(.*)(odklonem mimo)(.*)/",,"$1 runs $2 excepting $3",,,,
+,"P:/(.*)(jede)(.*)(odklonem přes)(.*)/",,"$1 runs $2 via $3",,,,
+,"v období $2 nejede v úseku $4",,"does not run in section $4 in period $2","P:/(Fährt von|Fährt vom)(.*)(nicht von)(.*)/","w okresie $2 nie kursuje na odcinku $4","nem közlekedik: $4 és $2 között",
+,"v $2 nejede v úseku $4",,"does not run in section $4 on $2","P:/(Fährt an|Fährt am)(.*)(nicht von)(.*)/","w $2 nie kursuje na odcinku $4","nem közlekedik: $4 és $2 között",
+,"v $4 nejede v úseku $2",,"does not run in section $2 on $4","P:/(Fährt von|Fährt vom)(.*)(nicht an)(.*)/","w $4 nie kursuje na odcinku $2","nem közlekedik: $4 és $2 között",
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,"Vlak nesplňuje obvyklý standard pro vlaky","Vlak nespĺňa štandard vlaku kategórie","This train fails to satisfy usual quality standard for trains","Dieser Zug bietet nicht die gewohnte Qualität ","Ten pociąg nie spełnia standardowej normy jakości dla tego zestawienia",,"El tren no cumple con los estándares de calidad habituales"
+,"Nákladní vlak s přepravou cestujících",,"Goods train with passenger service ","Güterzug mit Personenbeförderung ","Pociąg towarowo-osobowy","Vegyesvonat",
+,"řazení obou řad je náhodné",,"both types of car are possible","Beide Wagenbauarten sind möglich",,"mindkét típus előfordulhat",
+,"řazení klimatizovaného a neklimatizovaného vozu je náhodné",,"there is either air-conditioned or non air-conditioned car type","Reihung der klimatisierte als auch der nicht klimatisierte Wagen ist zufällig",,,
+,"zásuvky 230 V pouze u míst",,"230 V sockets only for seats","230 V-Steckdosen nur für Plätze",,,
+,"zásuvky 230 V pouze v 1. třídě",,"230 V sockets only in 1 class","230 V-Steckdosen nur in 1. Klasse",,,
+,"Přístupová brána k nástupišti se","Prístupová brána na nástupisku sa","Access gate to the platform will closed","Zugang zum Bahnsteig wird","Bramki dostępu na peronie są zamykane",,"El control de acceso se cierra"
+,"minuty před odjezdem vlaku uzavírá","minút pred odchodom vlaku sa uzatvára","minutes before the train departs","Minuten vor Abfahrt des Zuges geschlossen","minuty przed odjazdem pociągu",,"minutos antes de la salida del tren"
+,"maximální rychlost vlaku","maximálna rýchlosť vlaku","maximal speed","Maximale Geschwindigkeit ","Maksymalna prędkość pociągu",,"Velocidad máxima del tren"
+,"přeprava jízdních kol v úschově během přepravy na základě možné rezervace","preprava bicyklov v úschovni počas prepravy na základe možnej rezervácie","bicycle transport with optional reservation of space for bicycle","fahrende Gepäckaufbewahrung mit Reservierungsmöglichkeit für Fahrradstellplatz","przewóz rowerów z opcjonalną rezerwacją miejsca na rower",,
+,"přeprava jízdních kol v úschově během přepravy na základě povinné rezervace","preprava bicyklov v úschovni počas prepravy na základe povinnej rezervácie","bicycle transport with required reservation of space for bicycle","fahrende Gepäckaufbewahrung mit Reservierungspflicht für Fahrradstellplatz","przewóz rowerów z obowiązkową rezerwacją miejsca na rower",,
+,"přeprava jízdních kol na základě povinné rezervace","preprava bicyklov na základe povinnej rezervácie","bicycle transport with required reservation","Reservierungspflicht für Fahrradstellplatz","przewóz rowerów z obowiązkową rezerwacją miejsca na rower",,
+,"povinná rezervace místa pro jízdní kolo","povinná rezervácia miesta pre bicykel","bicycle transport with required reservation","Reservierungspflicht für Fahrradstellplatz","przewóz rowerów z obowiązkową rezerwacją miejsca na rower",,
+,"samoobslužná přeprava jízdních kol",,"bicycle transport with self-loading","Velo-Selbstverlad",,,
+,"přeprava jízdních kol","preprava bicyklov","bicycle transport","Fahrradtransport",,,
+,"Povinná rezervace místa k sezení pro cestující v mezinárodní přepravě","V medzinárodnej preprave platí povinná rezervácia miest na sedenie","compulsory seat reservation in international traffic","Reservierungspflicht im internationalen Verkehr ","Obowiązkowa rezerwacja miejsc na odcinku międzynarodowym","nemzetközi forgalomban helyjegy váltása kötelező",
+,"Cestující v mezinárodní přepravě s povinnou rezervací místa k sezení",,"compulsory seat reservation in international traffic","Reservierungspflicht im internationalen Verkehr ","Obowiązkowa rezerwacja miejsc na odcinku międzynarodowym","nemzetközi forgalomban helyjegy váltása kötelező",
+,,,,,,,
+,"vlak s povinnou rezervací místa","Vlak je povinne miestenkový ","train with compulsory seat reservation","Reservierungspflichter Zug","pociąg objęty całkowitą rezerwacją miejsc","a vonatra helyjegy váltása kötelező",
+,,,,,,,
+,"povinná rezervace místa","povinná rezervácia miesta","compulsory seat reservation","Reservierungspflicht","całkowitą rezerwacją miejsc","helyjegy váltása kötelező",
+,,,,,,,
+,,,,,,,
+,"povinná rezervace","povinná rezervácia","compulsory reservation","Reservierungspflicht","obowiązkowa rezerwacja","kötelező helyjegyváltás",
+,"povinné rezervace","povinné rezervácie","compulsory reservations","Reservierungspflicht","obowiązkowe rezerwacje","kötelező helyjegyváltás",
+,"povinně místenkový","povinne miestenkový","reservation necessary","Platzkartenpflichtig","obowiązkowa rezerwacja","kötelező helyjegyváltás",
+,"povinně místenkový","povinne miestenkový","reservation compulsory","Platzkartenpflichtig","obowiązkowa rezerwacja","kötelező helyjegyváltás",
+,"možná rezervace",,"reservable","reservierbar","możliwa rezerwacja","helyjegy váltható",
+,"rezervační číslo vlaku","rezervačné číslo vlaku","train number for ticket booking","Zugnummer für Fahrkartenbuchung ","numer pociągu do rezerwacji biletów",,
