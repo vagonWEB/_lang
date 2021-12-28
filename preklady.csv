@@ -19,25 +19,25 @@
 ;;;;;;;
 ;;;;;;;
 ;;;;;;;
-;Vlak nesplňuje obvyklý standard pro vlaky;Vlak nespĺňa štandard vlaku kategórie;This train fails to satisfy usual quality standard for trains;Dieser Zug bietet nicht die gewohnte Qualität ;Ten pociąg nie spełnia standardowej normy jakości dla tego zestawienia;;El tren no cumple con los estándares de calidad habituales
-;Nákladní vlak s přepravou cestujících;;Goods train with passenger service ;Güterzug mit Personenbeförderung ;Pociąg towarowo-osobowy;Vegyesvonat;
+;Vlak nesplňuje obvyklý standard pro vlaky;Vlak nespĺňa štandard vlaku kategórie;This train fails to satisfy usual quality standard for trains;"Dieser Zug bietet nicht die gewohnte Qualität ";Ten pociąg nie spełnia standardowej normy jakości dla tego zestawienia;;El tren no cumple con los estándares de calidad habituales
+;Nákladní vlak s přepravou cestujících;;"Goods train with passenger service ";"Güterzug mit Personenbeförderung ";Pociąg towarowo-osobowy;Vegyesvonat;
 ;řazení obou řad je náhodné;;both types of car are possible;Beide Wagenbauarten sind möglich;;mindkét típus előfordulhat;
 ;řazení klimatizovaného a neklimatizovaného vozu je náhodné;;there is either air-conditioned or non air-conditioned car type;Reihung der klimatisierte als auch der nicht klimatisierte Wagen ist zufällig;;;
 ;zásuvky 230 V pouze u míst;;230 V sockets only for seats;230 V-Steckdosen nur für Plätze;;;
 ;zásuvky 230 V pouze v 1. třídě;;230 V sockets only in 1 class;230 V-Steckdosen nur in 1. Klasse;;;
 ;Přístupová brána k nástupišti se;Prístupová brána na nástupisku sa;Access gate to the platform will closed;Zugang zum Bahnsteig wird;Bramki dostępu na peronie są zamykane;;El control de acceso se cierra
 ;minuty před odjezdem vlaku uzavírá;minút pred odchodom vlaku sa uzatvára;minutes before the train departs;Minuten vor Abfahrt des Zuges geschlossen;minuty przed odjazdem pociągu;;minutos antes de la salida del tren
-;maximální rychlost vlaku;maximálna rýchlosť vlaku;maximal speed;Maximale Geschwindigkeit ;Maksymalna prędkość pociągu;;Velocidad máxima del tren
+;maximální rychlost vlaku;maximálna rýchlosť vlaku;maximal speed;"Maximale Geschwindigkeit ";Maksymalna prędkość pociągu;;Velocidad máxima del tren
 ;přeprava jízdních kol v úschově během přepravy na základě možné rezervace;preprava bicyklov v úschovni počas prepravy na základe možnej rezervácie;bicycle transport with optional reservation of space for bicycle;fahrende Gepäckaufbewahrung mit Reservierungsmöglichkeit für Fahrradstellplatz;przewóz rowerów z opcjonalną rezerwacją miejsca na rower;;
 ;přeprava jízdních kol v úschově během přepravy na základě povinné rezervace;preprava bicyklov v úschovni počas prepravy na základe povinnej rezervácie;bicycle transport with required reservation of space for bicycle;fahrende Gepäckaufbewahrung mit Reservierungspflicht für Fahrradstellplatz;przewóz rowerów z obowiązkową rezerwacją miejsca na rower;;
 ;přeprava jízdních kol na základě povinné rezervace;preprava bicyklov na základe povinnej rezervácie;bicycle transport with required reservation;Reservierungspflicht für Fahrradstellplatz;przewóz rowerów z obowiązkową rezerwacją miejsca na rower;;
 ;povinná rezervace místa pro jízdní kolo;povinná rezervácia miesta pre bicykel;bicycle transport with required reservation;Reservierungspflicht für Fahrradstellplatz;przewóz rowerów z obowiązkową rezerwacją miejsca na rower;;
 ;samoobslužná přeprava jízdních kol;;bicycle transport with self-loading;Velo-Selbstverlad;;;
 ;přeprava jízdních kol;preprava bicyklov;bicycle transport;Fahrradtransport;;;
-;Povinná rezervace místa k sezení pro cestující v mezinárodní přepravě;V medzinárodnej preprave platí povinná rezervácia miest na sedenie;compulsory seat reservation in international traffic;Reservierungspflicht im internationalen Verkehr ;Obowiązkowa rezerwacja miejsc na odcinku międzynarodowym;nemzetközi forgalomban helyjegy váltása kötelező;
-;Cestující v mezinárodní přepravě s povinnou rezervací místa k sezení;;compulsory seat reservation in international traffic;Reservierungspflicht im internationalen Verkehr ;Obowiązkowa rezerwacja miejsc na odcinku międzynarodowym;nemzetközi forgalomban helyjegy váltása kötelező;
+;Povinná rezervace místa k sezení pro cestující v mezinárodní přepravě;V medzinárodnej preprave platí povinná rezervácia miest na sedenie;compulsory seat reservation in international traffic;"Reservierungspflicht im internationalen Verkehr ";Obowiązkowa rezerwacja miejsc na odcinku międzynarodowym;nemzetközi forgalomban helyjegy váltása kötelező;
+;Cestující v mezinárodní přepravě s povinnou rezervací místa k sezení;;compulsory seat reservation in international traffic;"Reservierungspflicht im internationalen Verkehr ";Obowiązkowa rezerwacja miejsc na odcinku międzynarodowym;nemzetközi forgalomban helyjegy váltása kötelező;
 ;;;;;;;
-;vlak s povinnou rezervací místa;Vlak je povinne miestenkový ;train with compulsory seat reservation;Reservierungspflichter Zug;pociąg objęty całkowitą rezerwacją miejsc;a vonatra helyjegy váltása kötelező;
+;vlak s povinnou rezervací místa;"Vlak je povinne miestenkový ";train with compulsory seat reservation;Reservierungspflichter Zug;pociąg objęty całkowitą rezerwacją miejsc;a vonatra helyjegy váltása kötelező;
 ;;;;;;;
 ;povinná rezervace místa;povinná rezervácia miesta;compulsory seat reservation;Reservierungspflicht;całkowitą rezerwacją miejsc;helyjegy váltása kötelező;
 ;;;;;;;
@@ -47,14 +47,14 @@
 ;povinně místenkový;povinne miestenkový;reservation necessary;Platzkartenpflichtig;obowiązkowa rezerwacja;kötelező helyjegyváltás;
 ;povinně místenkový;povinne miestenkový;reservation compulsory;Platzkartenpflichtig;obowiązkowa rezerwacja;kötelező helyjegyváltás;
 ;možná rezervace;;reservable;reservierbar;możliwa rezerwacja;helyjegy váltható;
-;rezervační číslo vlaku;rezervačné číslo vlaku;train number for ticket booking;Zugnummer für Fahrkartenbuchung ;numer pociągu do rezerwacji biletów;;
+;rezervační číslo vlaku;rezervačné číslo vlaku;train number for ticket booking;"Zugnummer für Fahrkartenbuchung ";numer pociągu do rezerwacji biletów;;
 ;mimo rezervační systém;mimo rezervačný systém;out of reservation system;keine Reservierungen möglich;wyłączone z systemu rezerwacji miejsc;a helyfoglalási rendszeren kívül;
 ;dle rezervací ARESu;podľa rezervácií v ARESe;accordance to ARES reservation request;je nach Anforderung von ARES Reservation;Rezerwacja według ARES;;
 ;;;;;;;
 ;;;;;;;
 ;rezervace;;seat reservation;Sitzplatzreservierung;rezerwacja;helyjegy;
-;celní a pasové orgány;colné a pasové orgány;customs and passport officers;Zoll- und Passkontrolle ;funkcjonariuszy służby celnej i paszportowej;;
-;celní a policejní orgány;;customs and police officers;Zoll- und Polizeibeamte ;funkcjonariuszy służby celnej i policji;;
+;celní a pasové orgány;colné a pasové orgány;customs and passport officers;"Zoll- und Passkontrolle ";funkcjonariuszy służby celnej i paszportowej;;
+;celní a policejní orgány;;customs and police officers;"Zoll- und Polizeibeamte ";funkcjonariuszy służby celnej i policji;;
 ;pasové orgány;pasové orgány;passport officers;Passkontrolle;funkcjonariuszy służby celnej;;
 ;oddíl průvodčího ve voze;služobný oddiel;conductor's compartment in car;Zugbegleiterabteil im Wagen;W wagonie znajduje się drużyna konduktorska;;
 ;pro průvodčího;;for conductor;;;;
@@ -71,12 +71,12 @@
 ;v opačném řazení;v opačnom poradí;in reverse order;in umgekehrter Formation;w odwróconym zestawieniu;szakaszon fordított sorrendben közlekedik;en sentido contrario
 ;v obráceném pořadí;v opačnom poradí;in reversed order;in umgekehrter Reihung;w odwróconym zestawieniu;szakaszon fordított sorrendben közlekedik;en sentido contrario
 ;obrácené řazení;;reverse order;umgekehrte Wagenreihung;w odwróconym zestawieniu;;en sentido contrario
-;vlak v žádném úseku své trasy nejede samostatně;;this train doesn't go separately in any section of its route;dieser Zug wird nicht separat geführt ;ten pociąg nie jedzie samodzielnie w żadnej części jego trasy;;
+;vlak v žádném úseku své trasy nejede samostatně;;this train doesn't go separately in any section of its route;"dieser Zug wird nicht separat geführt ";ten pociąg nie jedzie samodzielnie w żadnej części jego trasy;;
 ;vždy je spojen s jinými vlaky;vždy spojený s iným vlakom;it is always connected with other trains;immer ist mit einem anderen Zug vereinigt;zawsze jest połączony z innym pociągiem;;
 ;zobrazeny jsou pouze přímé vozy vlaku $2;;show through coaches $2 only;P:/(Hier sind nur die Kurswagen)(.*)(dargestellt)/;Pokazane tylko wagony $2;;
-;zobrazeny jsou pouze přímé vozy;zobrazujú sa iba priame vozne;show through coaches only;Hier sind nur die Kurswagen dargestellt ;Pokazane tylko wagony;;
+;zobrazeny jsou pouze přímé vozy;zobrazujú sa iba priame vozne;show through coaches only;"Hier sind nur die Kurswagen dargestellt ";Pokazane tylko wagony;;
 ;spojen s vlakem;spojený s vlakom;coupled with train;gekuppelt mit dem Zug;połączony z pociągiem;;acoplado con el tren
-;spojen s ;spojený s;coupled with;gekuppelt mit;połączony z ;;acoplado con
+;"spojen s ";spojený s;coupled with;gekuppelt mit;"połączony z ";;acoplado con
 ;vlak dále pokračuje;;;;;;
 ;;;;;;;
 ;;;;;;;
@@ -132,7 +132,7 @@
 ;;;;;;;
 ;;;;;;;
 ;vlak sune;;;;;;
-;železniční provoz;železničná doprava;train service;Bahnverkehr;transport kolejowy ;;
+;železniční provoz;železničná doprava;train service;Bahnverkehr;"transport kolejowy ";;
 ;náhradní autobusovou dopravou;;in bus replacement service;im Schienenersatzverkehr;zastępcza komunikacja autobusowa;;
 ;náhradní autobusová doprava;náhradná autobusová doprava;rail replacement bus service;Schienenersatzverkehr;zastępcza komunikacja autobusowa;vonatpótló autóbusz;
 ;náhradní autobusová doprava;náhradná autobusová doprava;bus replacement service;Schienenersatzverkehr;zastępcza komunikacja autobusowa;vonatpótló autóbusz;
@@ -143,15 +143,15 @@
 ;;P:/(.*)(mimo dní premávky tohto vlaku ide v rovnakom čase v trase)(.*)(vlak)(.*)/;Other train $5 runs in section $3 outside traffic days of this train at the same time $1;;;;
 ;;;;;;;
 ;se změnou času odjezdu a stanic;;with changed departure times and stops;mit geänderten Fahrzeiten und Halten;;;
-;se změnou času odjezdu;;with changed departure times;mit geänderten Fahrzeiten ;;;
+;se změnou času odjezdu;;with changed departure times;"mit geänderten Fahrzeiten ";;;
 ;změněné časy odjezdu a stanice;;changed departure times and stops;geänderte Fahrzeit und Halte;;;
 ;změněné jízdní časy a stanice;;changed travel times and stops;geänderte Fahrtzeit und Halte;;;
-;změněné jízdní časy;jazdné časy sú čiastočne zmenené;changed travel times ;geänderte Fahrzeiten;;;
+;změněné jízdní časy;jazdné časy sú čiastočne zmenené;"changed travel times ";geänderte Fahrzeiten;;;
 ;změněná jízdní doba;;changed journey time;geänderte Fahrzeit;;;
-;změněný čas odjezdu;;changed departure time;geänderte Abfahrtszeit ;;;
+;změněný čas odjezdu;;changed departure time;"geänderte Abfahrtszeit ";;;
 ;dřívější čas odjezdu;;earlier departure time;frühere Abfahrtszeit;;;
-;pozdější čas odjezdu;;later departure time ;spätere Abfahrtszeit;;;
-;čas nakládky;;loading time;Verladezeit ;;;
+;pozdější čas odjezdu;;"later departure time ";spätere Abfahrtszeit;;;
+;čas nakládky;;loading time;"Verladezeit ";;;
 ;hodiny;;hours;Stunden;godziny;;
 ;;;;;;;
 ;;;;;;;
@@ -161,8 +161,8 @@
 ;období jízdy vozů;obdobie jazdy vozňov;;;terminy kursowania wagonów;;
 ;mimo dny jízdy;mimo dní premávky;outside the days when runs;außerhalb der Fahrtage von;;;
 ;;;;;;;
-;v topném období;;in heating season;in der Heizperiode;w sezonie grzewczym ;;
-;v topné sezóně;;on heating season;in der Heizperiode;w sezonie grzewczym ;;
+;v topném období;;in heating season;in der Heizperiode;"w sezonie grzewczym ";;
+;v topné sezóně;;on heating season;in der Heizperiode;"w sezonie grzewczym ";;
 ;v období stavebních prací;;on railworking season;;;;
 ;z důvodu;;due to;aufgrund von;z powodu;;
 ;z důvodu;;due to;aufgrund eines;z powodu;;
@@ -173,14 +173,14 @@
 ;výluky tratě;;;Streckensperren;;;
 ;nebezpečí lavin;;avalanche danger;Lawinengefahr;;;
 ;odklon přes;;diverted via;Umleitung über;;;
-;do náhradní soupravy;do náhradnej súpravy;to a replacement train ;auf einen Ersatzzug;;;
+;do náhradní soupravy;do náhradnej súpravy;"to a replacement train ";auf einen Ersatzzug;;;
 ;náhradní souprava;náhradná súprava;replacement train;Ersatzzug;zastępczy skład;;
 ;náhradní vůz;;replacement car;Ersatzwagen;zastępczy wagon;;
-;zpoždění;;delay;Verspätung;opóźnienie ;;
-;zpožděn;;delayed;verspätet;opóźniony ;;
+;zpoždění;;delay;Verspätung;"opóźnienie ";;
+;zpožděn;;delayed;verspätet;"opóźniony ";;
 ;nutno přestoupit;;need to change;Umsteigen notwendig;;;
-;přestup;prestup;transfer;Umsteigen;przesiadanie ;;
-;výstup;;exit;Ausstieg ;;;
+;přestup;prestup;transfer;Umsteigen;"przesiadanie ";;
+;výstup;;exit;"Ausstieg ";;;
 ;;;;;;;
 ;;;;;;;
 ;bez zastavení;bez zastavenia;no stop;kein Halt;bez postojów;megállás nélkül;
@@ -191,10 +191,10 @@
 ;s vynecháním stanic;;excluding stations;ohne Station;z pominięciem postojów na st.;;
 ;s vynecháním stanice;;excluding station;ohne Station;z pominięciem postoju na st.;;
 ;;;;;;állomástól;
-;ze stanice;zo stanice;from station ;ab Station;ze stacji;állomásig;Desde la estación de
-;ze stanice;zo stanice;from station ;von Station;ze stacji;állomásig;Desde la estación de
-;do stanice;do stanice;to station ;bis Station;do stacji;állomáson át;Hasta la estación de
-;do stanice;do stanice;to station ;nach Station;do stacji;állomáson át;Hasta la estación de
+;ze stanice;zo stanice;"from station ";ab Station;ze stacji;állomásig;Desde la estación de
+;ze stanice;zo stanice;"from station ";von Station;ze stacji;állomásig;Desde la estación de
+;do stanice;do stanice;"to station ";bis Station;do stacji;állomáson át;Hasta la estación de
+;do stanice;do stanice;"to station ";nach Station;do stacji;állomáson át;Hasta la estación de
 ;přes stanice;cez stanice;via station;über Station;przez stację;állomásokon;
 ;ve stanicích;v stanicicach;at stations;in Stationen;na stacjach;állomásokon át;
 ;ve stanici;v stanici;at station;in Station;na stacji;állomáson át;
@@ -204,11 +204,11 @@
 ;ze směru;zo smeru;from direction;aus dem Richtung;;útiránytól;
 ;směr;smer;direction;Richtung;;útirány;
 ;ve směru;;direction;Richtung;;útirány;
-;v celé trase;v celom úseku;on the entire route;auf der gesamten Strecke ;w całej relacji;a teljes útvonalon;
-;v celém úseku;v celom úseku;on its full section ;auf der gesamten Strecke ;w całej relacji;a teljes útvonalon;
+;v celé trase;v celom úseku;on the entire route;"auf der gesamten Strecke ";w całej relacji;a teljes útvonalon;
+;v celém úseku;v celom úseku;"on its full section ";"auf der gesamten Strecke ";w całej relacji;a teljes útvonalon;
 ;v tomto úseku;v tomto úseku;on this section;in diesem Abschnitt;w tym odcinku;;
-;v úseku;v úseku;in section ;im Abschnitt;na odcinku;szakaszon;En tramo
-;v trase;v trase;in section ;im Abschnitt;na odcinku;szakaszon;En tramo
+;v úseku;v úseku;"in section ";im Abschnitt;na odcinku;szakaszon;En tramo
+;v trase;v trase;"in section ";im Abschnitt;na odcinku;szakaszon;En tramo
 ;ve zkrácené trase;;in shorten section;in einer verkürzten Route;w skróconej rel.;rövidített szakaszon;
 ;;;;;;;
 ;alternativní vlak;;alternative train;Alternativ Zug;;;
@@ -222,11 +222,11 @@
 ;;;;;;;
 ;;;;;;;
 ;bez servisu;bez servisu;without service;ohne Bewirtschaftung;bez obsługy;vonatkísérő személyzet nélkül közlekedik;
-;gastronomický servis je zrušen;bez servisu;Catering services are suspended ;ohne Fahrgastbedienung;bez obsługy;vonatkísérő személyzet nélkül közlekedik;
-;gastronomický servis je zrušen;bez servisu;Catering service is suspended ;ohne Fahrgastbedienung;bez obsługy;vonatkísérő személyzet nélkül közlekedik;
+;gastronomický servis je zrušen;bez servisu;"Catering services are suspended ";ohne Fahrgastbedienung;bez obsługy;vonatkísérő személyzet nélkül közlekedik;
+;gastronomický servis je zrušen;bez servisu;"Catering service is suspended ";ohne Fahrgastbedienung;bez obsługy;vonatkísérő személyzet nélkül közlekedik;
 ;servis na místě zajišťuje;;at seat catering services;Catering am Sitzplatz;usługi cateringowe na miejscu zapewnia;;
-;servis zajišťuje;servis zabezpečuje;service is provided by ;Fahrgastbedienung;obsługę zapewnia;fedélzeti szolgáltató:;servicio prestado por la empresa
-;gastronomický servis;servis zabezpečuje;catering services;Bordgastronomie;usługi gastronomiczne ;étkezőkocsi személyzet:;servicio prestado por la empresa
+;servis zajišťuje;servis zabezpečuje;"service is provided by ";Fahrgastbedienung;obsługę zapewnia;fedélzeti szolgáltató:;servicio prestado por la empresa
+;gastronomický servis;servis zabezpečuje;catering services;Bordgastronomie;"usługi gastronomiczne ";étkezőkocsi személyzet:;servicio prestado por la empresa
 ;servis poskytuje;servis;service staff;Bewirtschaftung;obsługę;kocsikísérő személyzet:;
 ;servis;servis;catering;Fahrgastbedienung;obsługę;;
 ;;;;;;;
@@ -236,7 +236,7 @@
 ;;;;;;;
 ;;;;;;;
 ;kategorie vlaku;kategória vlaku;train category;Zugkategorie;kategoria pociągu;vonatnem;categoría de tren
-;s číslem;s číslom;with the number ;mit der Nummer ;z nummerem;vonatszámmal;
+;s číslem;s číslom;"with the number ";"mit der Nummer ";z nummerem;vonatszámmal;
 ;;;;;;;
 ;číslo vlaku;číslo vlaku;train number;Zugnummer;numer pociągu;;número de tren
 ;;;;;;;
@@ -256,11 +256,11 @@
 ;dámský;dámsky;for ladies;Damenabteil;dla kobiet;kizárólag nők részére fenntartva;
 ;dámy;dámy;ladies;Damen;kobiety;nők;
 ;oddíl pro invalidy;oddiel pre invalidov;compartment for disabled people;Behindertenabteil;przedział dla osób niepełnosprawnych;fülke mozgássérültek részére fenntartva;
-;cestující na invalidním vozíku;cestujúcich s obmedzenými pohybovými schopnosťami;disabled people;Behinderte;osób niepełnosprawnych na wózkach inwalidzkich ;mozgássérültek;
-;cestující na vozíku;cestujúcich s obmedzenými pohybovými schopnosťami;disabled people;Behinderte;osób niepełnosprawnych na wózkach ;mozgássérültek;
-;prostor pro invalidní vozík;priestor pre invalidný vozík;wheelchair area;Rollstuhlstellplatz ;Przestrzeń dla wózka inwalidzkiego;kerekesszék elhelyezésére kialakított hely;
+;cestující na invalidním vozíku;cestujúcich s obmedzenými pohybovými schopnosťami;disabled people;Behinderte;"osób niepełnosprawnych na wózkach inwalidzkich ";mozgássérültek;
+;cestující na vozíku;cestujúcich s obmedzenými pohybovými schopnosťami;disabled people;Behinderte;"osób niepełnosprawnych na wózkach ";mozgássérültek;
+;prostor pro invalidní vozík;priestor pre invalidný vozík;wheelchair area;"Rollstuhlstellplatz ";Przestrzeń dla wózka inwalidzkiego;kerekesszék elhelyezésére kialakított hely;
 ;invalidní vozík;invalidný vozík;wheelchair;Rollstuhl;wózek inwalidzki;kerekesszék;
-;pro doprovod invalidy;;for disabled attendants;für Behinderte Begleiter;dla opiekunów osób niepełnosprawnych ;mozgássérültek kísérői részére fenntartva;
+;pro doprovod invalidy;;for disabled attendants;für Behinderte Begleiter;"dla opiekunów osób niepełnosprawnych ";mozgássérültek kísérői részére fenntartva;
 ;pro invalidy;pre invalidov;for disabled people;für Behinderte;dla podróżnych niepełnosprawnych;mozgássérültek részére fenntartva;
 ;pro invalidy;pre invalidov;for disabled people;für Behinderte;dla osób niepełnosprawnych;mozgássérültek részére fenntartva;
 ;invalidy;invalidov;disabled people;Behinderte;niepełnosprawnych;mozgássérültek;
@@ -278,14 +278,14 @@
 ;s dětmi;s deťmi;with childern;mit Kindern;z dziećmi;kisgyermekkel;
 ;do 6 let;do 6 rokov;up to the age of 6 years;bis 6 Jahre;do lat 6;6 éves korig;
 ;do 10 let;do 10 rokov;up to the age of 10 years;bis 10 Jahre;do lat 10;10 éves korig;
-;rodinný prostor;;family area;Familienbereich;obszar rodzinny ;családi szakasz;
+;rodinný prostor;;family area;Familienbereich;"obszar rodzinny ";családi szakasz;
 ;pro rodiny;;for families;für Familien;dla rodzin;;
-;pro cestujícího;pre cestujúceho;for passenger;für Reisende;dla osób ;;
-;pro cestující;pre cestujúcich;for passengers;für Reisende;dla osób ;;
+;pro cestujícího;pre cestujúceho;for passenger;für Reisende;"dla osób ";;
+;pro cestující;pre cestujúcich;for passengers;für Reisende;"dla osób ";;
 ;dětské kino;detské kino;children's cinema;Kinder-Kino;kino dla dzieci;gyerekmozi;
 ;kinovůz;;cinema car;Kino-Wagen;Wagon Kinowy;;
 ;místa pro jízdní kolo;miesta vyhradené pre bicykle;places for bicycle;Fahrradplatz;miejsce dla rowerów;kerékpár a vonaton a jelölt helyen szállítható;
-;s jízdním kolem;s bicyklom;with bicycle;mit Fahrrad;przewożących rowery ;;
+;s jízdním kolem;s bicyklom;with bicycle;mit Fahrrad;"przewożących rowery ";;
 ;s jízdním kolem;s bicyklom;with bicycle;mit Fahrrad;z rowerem;;
 ;pro jízdní kolo;pre bicykel;for bicycle;für Fahrrad;dla rowerów;;
 ;jízdní kolo;bicykel;bicycle;Fahrrad;dla rowerów;bicikli;
@@ -332,14 +332,14 @@
 ;;;;;;;
 ;;;;;;;
 ;nejede v;nejde v;does not run on;fährt nicht am;nie kursuje w;nem közlekedik;no circula los
-;nejede v;nejde v;does not run in ;fährt nicht im;nie kursuje w;nem közlekedik;no circula los
+;nejede v;nejde v;"does not run in ";fährt nicht im;nie kursuje w;nem közlekedik;no circula los
 ;nejede v;nejde v;does not run on;fährt nicht an;nie kursuje w;nem közlekedik;no circula los
 ;nejede od;nejde od;does not run from;fährt nicht ab;nie kursuje od;nem közlekedik;
 ;nejede do;nejde do;does not run until;fährt nicht bis;nie kursuje do;nem közlekedik;
 ;nejede;nejde;does not run;fährt nicht;nie kursuje;nem közlekedik;no circula
 ;nejedou;nejdú;do not run;fähren nicht;nie kursuje;nem közlekedik;
 ;nejede v;nejde v;does not run on;nicht am;nie jedzie w;nem közlekedik;no circula los
-;nejede v;nejde v;does not run in ;nicht im;nie jedzie w;nem közlekedik;no circula los
+;nejede v;nejde v;"does not run in ";nicht im;nie jedzie w;nem közlekedik;no circula los
 ;nejede v;nejde v;does not run on;nicht an;nie jedzie w;nem közlekedik;no circula los
 ;nejede od;nejde od;does not run from;nicht ab;nie jedzie od;nem közlekedik;
 ;nejede do;nejde do;does not run until;nicht bis;nie jedzie do;nem közlekedik;
@@ -349,43 +349,43 @@
 ;nejede do;nejde do;P:/(?i)(no|not|doesn't)( )(run|runs|run)( )(until)/;fährt nicht bis;nie jedzie do;nem közlekedik;
 ;nejede;nejde;P:/(?i)(no|not|doesn't)( )(run|runs|run)/;fährt nicht;nie jeździ;nem közlekedik;no circula
 ;nejede v;nejde v;N:not on;fährt nicht am;nie jedzie w;nem közlekedik;no circula los
-;nejede v;nejde v;N:not in ;fährt nicht im;nie jedzie w;nem közlekedik;no circula los
+;nejede v;nejde v;"N:not in ";fährt nicht im;nie jedzie w;nem közlekedik;no circula los
 ;nejede od;nejde od;N:not from;fährt nicht ab;nie jedzie od;nem közlekedik;
 ;nejede do;nejde do;N:not until;fährt nicht bis;nie jedzie do;nem közlekedik;
 ;nejede <span;;does not run <span;nicht <span;nie kursuje <span;nem közlekedik <?span;
 ;nejede $2;;does not run $2;P:/(nicht )(\d)/;nie kursuje $2;nem közlekedik $2;
 ;;;;;;;
 ;jede v;ide v;runs on;fährt an;kursuje w;közlekedik:;
-;jede jen v ;ide iba v;runs only on ;fährt nur am;kursuje tylko w;közlekedik:;circula sólo los
-;jede jen v ;ide iba v;runs only in ;fährt nur im;kursuje tylko w;közlekedik:;circula sólo los
-;jede jen v ;ide iba v;runs only on ;fährt nur an;kursuje tylko w;közlekedik:;circula sólo los
+;"jede jen v ";ide iba v;"runs only on ";fährt nur am;kursuje tylko w;közlekedik:;circula sólo los
+;"jede jen v ";ide iba v;"runs only in ";fährt nur im;kursuje tylko w;közlekedik:;circula sólo los
+;"jede jen v ";ide iba v;"runs only on ";fährt nur an;kursuje tylko w;közlekedik:;circula sólo los
 ;jede jen od;ide iba od;operates only from;fährt nur ab;kursuje tylko od;közlekedik:;
 ;jede jen do;ide iba do;operates only till;fährt nur bis;kursuje tylko do;közlekedik:;
-;jede jen ;ide iba;runs only ;fährt nur;kursuje tylko;közlekedik:;circula sólo
-;jede v ;ide v;runs on ;fährt am;kursuje w;közlekedik:;circula los
-;jede v ;ide v;runs in ;fährt im;kursuje w;közlekedik:;circula los
-;jede v ;ide v;runs on ;fährt an;kursuje w;közlekedik:;circula los
-;jede od ;ide od;runs from;fährt ab;kursuje od;közlekedik:;
-;jede do ;ide do;runs until ;fährt bis;kursuje do;közlekedik:;
+;"jede jen ";ide iba;"runs only ";fährt nur;kursuje tylko;közlekedik:;circula sólo
+;"jede v ";ide v;"runs on ";fährt am;kursuje w;közlekedik:;circula los
+;"jede v ";ide v;"runs in ";fährt im;kursuje w;közlekedik:;circula los
+;"jede v ";ide v;"runs on ";fährt an;kursuje w;közlekedik:;circula los
+;"jede od ";ide od;runs from;fährt ab;kursuje od;közlekedik:;
+;"jede do ";ide do;"runs until ";fährt bis;kursuje do;közlekedik:;
 ;jede od;ide od;runs from;fährt von;kursuje od;közlekedik:;
 ;;;;;;;
-;jede ;ide;runs ;fährt;kursuje;közlekedik;circula
-;jedou ;idú;run ;fahren;kursuje;közlekedik;
-;jedou ;idú;run ;verkehren;kursuje;közlekedik;
-;jede jen v ;ide iba v;runs only on ;fährt nur am;jedzie tylko w;közlekedik;circula sólo los
+;"jede ";ide;"runs ";fährt;kursuje;közlekedik;circula
+;"jedou ";idú;"run ";fahren;kursuje;közlekedik;
+;"jedou ";idú;"run ";verkehren;kursuje;közlekedik;
+;"jede jen v ";ide iba v;"runs only on ";fährt nur am;jedzie tylko w;közlekedik;circula sólo los
 ;jede jen od;ide iba od;operates only from;fährt nur ab;jedzie tylko od;közlekedik;
-;jede jen ;ide iba;runs only ;fährt nur;jedzie tylko;közlekedik;circula sólo
-;jede v ;ide v;runs on ;fährt am;jedzie w;közlekedik;circula los
+;"jede jen ";ide iba;"runs only ";fährt nur;jedzie tylko;közlekedik;circula sólo
+;"jede v ";ide v;"runs on ";fährt am;jedzie w;közlekedik;circula los
 ;;;;;;;
 ;;;;;;;
 ;;;;;;;
 ;;;;;;;
 ;;;;;;;
-;jede ;ide;is running;fährt;jedzie;;circula
+;"jede ";ide;is running;fährt;jedzie;;circula
 ;přijede;príde;comes;kommt;pochodzi;;
 ;;;;;;;
-;bez frekvence cestujících;bez cestujúcich;without passengers;Ohne Reisende ;bez pasażerów;utasok nélkül;
-;bez frekvence;bez cestujúcich;without passengers;Ohne Reisende ;bez pasażerów;utasok nélkül;
+;bez frekvence cestujících;bez cestujúcich;without passengers;"Ohne Reisende ";bez pasażerów;utasok nélkül;
+;bez frekvence;bez cestujúcich;without passengers;"Ohne Reisende ";bez pasażerów;utasok nélkül;
 ;není v provozu;;not in operation;nicht in Betrieb;;;
 ;mimo provoz;;no service;keine Fahrt;;;
 ;;;;;;;
@@ -399,7 +399,7 @@
 ;vlak;vlak;the train;der Zug;pociąg;;
 ;;;;;;;
 ;ve vozech;;in cars;in Wagen;w wagonach;;
-;ve voze;;in car;im Wagen;w wagonie ;;
+;ve voze;;in car;im Wagen;"w wagonie ";;
 ;;;;;;;
 ;vozy;vozne;cars;Wagen;wagony;kocsik;
 ;vozy;vozne;coaches;Wagen;wagony;kocsik;
@@ -424,7 +424,7 @@
 ;společně;;together;gemeinsam;razem;;
 ;případně;prípadne;eventually;bzw;ostatecznie;;eventualmente
 ;částečně;;partly;teilweise;częściowo;;
-;dočasně;dočasne;temporarily ;vorübergehend ;tymczasowo;;
+;dočasně;dočasne;"temporarily ";"vorübergehend ";tymczasowo;;
 ;prázdný;prázdny;empty;leer;pusty;;
 ;prázdná;prázdná;empty;leer;pusty;;
 ;prázdné;prázdne;empty;leer;pusty;;
@@ -433,7 +433,7 @@
 ;uzamčeno;uzamknuté;closed;zugesperrt;niedostępne dla podróżnych;lezárva;cerrado
 ;uzamčeny;uzamknuté;closed;zugesperrt;niedostępne dla podróżnych;lezárva;cerrado
 ;uzamčena;uzamknutá;closed;zugesperrt;niedostępne dla podróżnych;lezárva;cerrado
-;uzamčen;uzamknutý;locked;abgesperrt;niedostępny dla pasażerów ;lezárva;cerrado
+;uzamčen;uzamknutý;locked;abgesperrt;"niedostępny dla pasażerów ";lezárva;cerrado
 ;uzamčen;uzamknutý;locked;verschlossen;niedostępny dla podróżnych;lezárva;cerrado
 ;uzamčen;uzamknutý;locked;abgesperrt;niedostępny dla podróżnych;lezárva közlekedik;cerrado
 ;;;;;;;
@@ -444,8 +444,8 @@
 ;;;;;;;
 ;;;;;;;
 ;zrušen;zrušený;canceled;ausgefallen;odwołany;;
-;zrušeno;zrušený;cancellation;Ausfall;odwołanie ;;
-;odřeknuto;zrušený;cancellation;Ausfall;odwołanie ;;
+;zrušeno;zrušený;cancellation;Ausfall;"odwołanie ";;
+;odřeknuto;zrušený;cancellation;Ausfall;"odwołanie ";;
 ;odřeknutý;odrieknutý;cancelled;ausgefallen;odwołany;;
 ;odřeknut;zrušený;suspended;abgesagt;odwołany;;
 ;cestujícího;cestujúceho;passenger;Fahrgast;pasażer;utas;
@@ -453,60 +453,61 @@
 ;před odjezdem;pred odchodom;before departure;vor Abfahrt;przed odjazdem;indulás előtt;
 ;odjezd;odchod;departure;Abfahrt;odjazd;indulás;
 ;příjezd;príchod;arrival;Ankunft;przyjazd;érkezés;
-;odj ;odch;dep ;Abf;odj;ind;
-;příj ;prích;arr ;Ank;przy;érk;
+;"odj ";odch;"dep ";Abf;odj;ind;
+;"příj ";prích;"arr ";Ank;przy;érk;
 ;Check-in od;;Check-in from;Check-In ab;Check-in od;;
 ;odj. $2$3$4 hod.;;dep. $2$3$4;P:/(ab )([0-9]{1,2})([:]|[.])([0-9]{1,2})( Uhr)/;odj. $2$3$4;;
-;příj. $2$3$4 hod.;;arr. $2$3$4;P:/(an )([0-9]{1,2})([:]|[.])([0-9]{1,2})( Uhr)/;przy. $2$3$4 ;;
+;příj. $2$3$4 hod.;;arr. $2$3$4;P:/(an )([0-9]{1,2})([:]|[.])([0-9]{1,2})( Uhr)/;"przy. $2$3$4 ";;
 ;hod;;hrs;Uhr;;;
 ;dom . st;dom . st;;Heimatbf;st . mac;honállomás;
 ;;;;;;;
 ;možný;;possible;möglich;;;
-;minimálně;;at least;mindestens;przynajmniej ;;
+;minimálně;;at least;mindestens;"przynajmniej ";;
 ;pravděpodobně;;probably;wahrscheinlich;prawdopodobnie;;
-;a to ;a to;namely ;und zwar;mianowicie;;
-;jinak ;inak;else;anders;w pozostałe dni;;en caso contrario
-;jinak ;inak;else;sonst;w pozostałych terminach;;en caso contrario
+;"a to ";a to;"namely ";und zwar;mianowicie;;
+;"jinak ";inak;else;anders;w pozostałe dni;;en caso contrario
+;"jinak ";inak;else;sonst;w pozostałych terminach;;en caso contrario
 ;jen v;len v;only on;nur an;tylko w;;sólo
-;pouze ;iba;only ;nur;tylko;;sólo
-;jen ;len;only ;nur;tylko;;sólo
-;kromě;okrem;excepting ;ausgenommen;oprócz;;
-;mimo ;mimo;except ;ausgenommen ;z wyjątkiem ;kivéve;
-;kromě;okrem;except ;außer;z wyjątkiem ;kivéve;
-;mimo to;okrem toho;otherwise;sonst ;poza tym ;;
+;"pouze ";iba;"only ";nur;tylko;;sólo
+;"jen ";len;"only ";nur;tylko;;sólo
+;kromě;okrem;"excepting ";ausgenommen;oprócz;;
+;"mimo ";mimo;"except ";"ausgenommen ";"z wyjątkiem ";kivéve;
+;kromě;okrem;"except ";außer;"z wyjątkiem ";kivéve;
+;mimo to;okrem toho;otherwise;"sonst ";"poza tym ";;
 ;platné;platné;valid;gültig;obowiązuje;;
 ;platí;platí;valid;gültig;obowiązuje;;
-; jako ; ako; as ; als; jako;;
-; bez ; bez; without ; ohne; bez;;
-; přes ; cez; via; durch; przez;;
-; dále ; ďalej; further; weiter; dalej;;
-; dále ; ďalej; further; sowie; dalej;;
+;" jako ";" ako";" as ";" als";" jako";;
+;" bez ";" bez";" without ";" ohne";" bez";;
+;" přes ";" cez";" via";" durch";" przez";;
+;" dále ";" ďalej";" further";" weiter";" dalej";;
+;" dále ";" ďalej";" further";" sowie";" dalej";;
 ;;;;;;;
 ;;;;;;;
-; pro ; pre ; for ; für ; dla ;;
-; je ; je ; is ; ist ; jest ;; está 
-; namísto ; namiesto ; instead of ; statt ; zamiast ;;
-; v <span; v <span; on <span; an <span; w <span;;
-; v <span; v <span; on <span; am <span; w <span;;
-; v ; v ; in ; in ; w ;; en 
-; v ; v ; in ; im ; w ; ettől:; en 
-; od ; od ; from ; von ; z ; eddig:;
-; do ; do ; to ; nach ; do ;;
-; do ; do ; until; bis ; do ;;
-; nebo; alebo ; or; oder ; lub ;; o 
-; a ; a ; and ; und ; i ; és ; y 
-; a ; a ; and ; und ; oraz ; és ; y 
-; a ; a ; and ; u. ; i ; és ; y 
-; ne ; nie ; not ; nicht ; nie ;;
-; ne ; nie ; no ; nicht ; nie ;;
-; také ; aj ; also ; auch ; również ;;
-; též ; tiež ; also ; auch ; również ;;
-; když ; keď ; if ; wenn ; jeśli ;;
-; od ; od ; from ; vom ; od ;;
-; v ; v ; on ; am ; w ;;
-; s ; s ; with  ; mit ; z ;;
-; mezi ; medzi ; between ; zwischen ; między ; között ;
-; v ;; at ; um ;;;
-; od ; od ; from ; ab ; od ;;
-; č ; č ; Nr ; Nr ; Nr ; sz ;
-; čís ; číslo ; Nr  ; Nr ; Nr ; sz ;
+;" pro ";" pre ";" for ";" für ";" dla ";;
+;" je ";" je ";" is ";" ist ";" jest ";;" está "
+;" namísto ";" namiesto ";" instead of ";" statt ";" zamiast ";;
+;" v <span";" v <span";" on <span";" an <span";" w <span";;
+;" v <span";" v <span";" on <span";" am <span";" w <span";;
+;" v ";" v ";" in ";" in ";" w ";;" en "
+;" v ";" v ";" in ";" im ";" w ";" ettől:";" en "
+;" od ";" od ";" from ";" von ";" z ";" eddig:";
+;" do ";" do ";" to ";" nach ";" do ";;
+;" do ";" do ";" until";" bis ";" do ";;
+;" nebo";" alebo ";" or";" oder ";" lub ";;" o "
+;" a ";" a ";" and ";" und ";" i ";" és ";" y "
+;" a ";" a ";" and ";" und ";" oraz ";" és ";" y "
+;" a ";" a ";" and ";" u. ";" i ";" és ";" y "
+;" ne ";" nie ";" not ";" nicht ";" nie ";;
+;" ne ";" nie ";" no ";" nicht ";" nie ";;
+;" také ";" aj ";" also ";" auch ";" również ";;
+;" též ";" tiež ";" also ";" auch ";" również ";;
+;" když ";" keď ";" if ";" wenn ";" jeśli ";;
+;" od ";" od ";" from ";" vom ";" od ";;
+;" v ";" v ";" on ";" am ";" w ";;
+;" s ";" s ";" with  ";" mit ";" z ";;
+;" mezi ";" medzi ";" between ";" zwischen ";" między ";" között ";
+;" v ";;" at ";" um ";;;
+;" od ";" od ";" from ";" ab ";" od ";;
+;" č ";" č ";" Nr ";" Nr ";" Nr ";" sz ";
+;" čís ";" číslo ";" Nr  ";" Nr ";" Nr ";" sz ";
+;;;;;;;aaaa
