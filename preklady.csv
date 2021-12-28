@@ -1,3 +1,4 @@
+"x";"cs";"sk";"en";"de";"pl";"hu";"es"
 ;"Vlak $1 je mezi stanicemi $3 veden společně s vlakem $5";;"Train $1 runs together with train $5 in section $3";"P:/(.*)(wird zwischen)(.*)(gemeinsam mit)(.*)(geführt)/";"Na odcinku $3 pociąg $1 jest połączony ze składem $5";;
 ;"Vlak $1 je v úseku $3 veden společně s vlakem $5";;"Train $1 runs together with train $5 from $3";"P:/(.*)(wird von)(.*)(gemeinsam mit)(.*)(geführt)/";"Na odcinku $3 pociąg $1 jest połączony ze składem $5";;
 ;"V úseku $2 veden společně s vlakem $4";;"Runs together with train $4 in section $2";"P:/(Wird von)(.*)(gemeinsam mit)(.*)(geführt)/";"Kursuje w połączeniu ze składem $4 na odcinku $2";;
