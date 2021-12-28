@@ -7,6 +7,7 @@ define ("JstePrihlasenJako","Jste přihlášen jako");
 define ("RegistrovanyUzivatel","Registrovaný uživatel");
 define ("ChybneJmenoNeboHeslo","Chybné jméno nebo heslo");
 
+
 define ("RegistraceNovehoUzivatele","Registrace nového uživatele");
 define ("UvodRegistrace","Vytvoření uživatelského účtu ve dvou jednoduchých krocích:<br />1. Vyplnění formuláře níže.<br />2. Zaslání zprávy na mail vagonweb(zavináč)vagonweb.cz s informací o Vaší
 registraci a o tom, zda máte zájem o skutečné nebo plánované řazení (nebo oboje).");
