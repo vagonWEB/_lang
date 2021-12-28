@@ -1,25 +1,4 @@
 "x";"cs";"sk";"en";"de";"pl";"hu";"es"
-;"Vlak $1 je mezi stanicemi $3 veden společně s vlakem $5";;"Train $1 runs together with train $5 in section $3";"P:/(.*)(wird zwischen)(.*)(gemeinsam mit)(.*)(geführt)/";"Na odcinku $3 pociąg $1 jest połączony ze składem $5";;
-;"Vlak $1 je v úseku $3 veden společně s vlakem $5";;"Train $1 runs together with train $5 from $3";"P:/(.*)(wird von)(.*)(gemeinsam mit)(.*)(geführt)/";"Na odcinku $3 pociąg $1 jest połączony ze składem $5";;
-;"V úseku $2 veden společně s vlakem $4";;"Runs together with train $4 in section $2";"P:/(Wird von)(.*)(gemeinsam mit)(.*)(geführt)/";"Kursuje w połączeniu ze składem $4 na odcinku $2";;
-;"V $2 jede jako $4";;"Runs as $4 on $2";"P:/(Wird an)(.*)(als)(.*)(geführt)/";"Kursuje jako $4 w $2";;
-;"Ze stanice $2 jede jako $4";;"Runs as $4 from $2";"P:/(Wird ab)(.*)(als)(.*)(geführt)/";"Kursuje jako $4 od stacji $2";;
-;"Do stanice $2 jede jako $4";;"Runs as $4 to $2";"P:/(Wird nach)(.*)(als)(.*)(geführt)/";"Kursuje jako $4 do stacji $2";;
-;"Do stanice $2 jede jako $4";;"Runs as $4 to $2";"P:/(xxxxxxWird)(.*)(geführt)/";"Kursuje jako $4 do stacji $2";;
-;"Přímé vozy do stanice $2 jsou přeřazeny ve stanici $4 do vlaku $6";;"Cars to $2 are switched to train $6 at station $4";"Kurswagen nach $2 wird auf Zug $6 am Bahnhof $4 umgestellt";"P:/(Wagony do stacji)(.*)(są przełączane na stacji|są przełączane v stacji)(.*)(na pociąg|do pociągu)(.*)([.])/";;
-;"Přímé vozy ze stanice $2 jsou připojeny ve stanici $4 od vlaku $6";;"Cars from $2 are switched from train $6 at station $4";"Kurswagen von $2 wird vom Zug $6 am Bahnhof $4 umgestellt";"P:/(Wagony ze stacji)(.*)(są przełączane na stacji|są przełączane v stacji)(.*)(z pociągu)(.*)([.])/";;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;"P:/(.*)(jede)(.*)(odklonem mimo)(.*)/";;"$1 runs $2 excepting $3";;;;
-;"P:/(.*)(jede)(.*)(odklonem přes)(.*)/";;"$1 runs $2 via $3";;;;
-;"v období $2 nejede v úseku $4";;"does not run in section $4 in period $2";"P:/(Fährt von|Fährt vom)(.*)(nicht von)(.*)/";"w okresie $2 nie kursuje na odcinku $4";"nem közlekedik: $4 és $2 között";
-;"v $2 nejede v úseku $4";;"does not run in section $4 on $2";"P:/(Fährt an|Fährt am)(.*)(nicht von)(.*)/";"w $2 nie kursuje na odcinku $4";"nem közlekedik: $4 és $2 között";
-;"v $4 nejede v úseku $2";;"does not run in section $2 on $4";"P:/(Fährt von|Fährt vom)(.*)(nicht an)(.*)/";"w $4 nie kursuje na odcinku $2";"nem közlekedik: $4 és $2 között";
-;;;;;;;
-;;;;;;;
-;;;;;;;
 ;"Vlak nesplňuje obvyklý standard pro vlaky";"Vlak nespĺňa štandard vlaku kategórie";"This train fails to satisfy usual quality standard for trains";"Dieser Zug bietet nicht die gewohnte Qualität ";"Ten pociąg nie spełnia standardowej normy jakości dla tego zestawienia";;"El tren no cumple con los estándares de calidad habituales"
 ;"Nákladní vlak s přepravou cestujících";;"Goods train with passenger service ";"Güterzug mit Personenbeförderung ";"Pociąg towarowo-osobowy";"Vegyesvonat";
 ;"řazení obou řad je náhodné";;"both types of car are possible";"Beide Wagenbauarten sind möglich";;"mindkét típus előfordulhat";
